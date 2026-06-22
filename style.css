@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+:root{
+    --color: black;
+    --bgcolor: white;
+}
+nav{
+    display: flex;
+}
+body{
+    background-color: var(--bgcolor);
+}
